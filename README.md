@@ -2,8 +2,7 @@
 =============
 정다희 <BR />
 -------------
-내 홈페이지: [홈페이지][homepage]
-[homepage]: https://github.com/clouari/firstRepository
+내 홈페이지: <https://github.com/clouari/firstRepository>
 
 이메일주소 : <ekdudekgml35@naver.com>
 
