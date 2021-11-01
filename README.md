@@ -1,7 +1,8 @@
 개인프로필 <BR />
 =============
 
-![test](구름이갸웃.jpeg)
+<img src="구름이갸웃.jpeg" width="400" height="400"/>  
+
 정다희 <BR />
 -------------
 내 홈페이지: <https://github.com/clouari/firstRepository>
@@ -22,4 +23,5 @@
 4. 내가 참여한 프로젝트
 5. 목표로 하는 프로젝트
 
-자기소개
+자기소개  
+dsfsdfs
