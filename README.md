@@ -1,7 +1,7 @@
 개인프로필 <BR />
 =============
 
-![test](구름이갸웃.jpeg)
+![test](구름이갸웃.jpeg){: width="100" height="100"}
 정다희 <BR />
 -------------
 내 홈페이지: <https://github.com/clouari/firstRepository>
