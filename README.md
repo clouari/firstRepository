@@ -1,7 +1,7 @@
 개인프로필 <BR />
 =============
 
-<img src="구름이갸웃.jpeg" width="400" height="400"/>  🐱이름은 "구름"입니다!🐱
+<img src="구름이갸웃.jpeg" width="400" height="400"/>  이름은 "구름"입니다!
 
 정다희 <BR />
 -------------
@@ -17,7 +17,7 @@
 ![Generic badge](https://img.shields.io/badge/{VScode}-{androidstudio}-{red}.svg)
 
 2. 내가 배울 기술들<br />
-![Generic badge](https://img.shields.io/badge/{Pathon}}-{JAVA}-{yellow}.svg)
+![Generic badge](https://img.shields.io/badge/{Pathon}-{JAVA}-{yellow}.svg)
 
 3. 내가 만들어본 프로젝트
 4. 내가 참여한 프로젝트
