@@ -5,13 +5,13 @@
 내 홈페이지: [홈페이지][homepage]
 [homepage]: https://github.com/clouari/firstRepository
 
-이메일주소<BR />
+이메일주소 : <ekdudekgml35@naver.com>
 
 내 블로그<BR />
 
 
 1. 내가 배운 기술들
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<red>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<color>
 
 2. 내가 배울 기술들
 3. 내가 만들어본 프로젝트
