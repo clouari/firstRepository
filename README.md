@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://mybox.naver.com/#/photo/all/viewer/3472436816176113716:11545246/%7B%22thumbUrl%22%3A%22https%3A%2F%2Fthumb1.photo.mybox.naver.com%2F3472436816176113716%3Ftype%3Dm1280_1280_2%26nocache%3D0429192710%22%7D" width="400" height="400"/>  이름은 "구름"입니다!
+<img src="구름이갸웃.jpeg" width="400" height="400"/>"   이름은 "구름"입니다!
 
 ## 정다희 <BR />
 -------------
