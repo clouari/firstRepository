@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<a href="instagram.pdf" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="instagram.pdf" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=뱃지모양&logo=로고&logoColor=yellow"/></a>
 <img src="구름이갸웃.jpeg" width="400" height="400"/>"   이름은 "구름"입니다!
 
 ## 정다희 <BR />
