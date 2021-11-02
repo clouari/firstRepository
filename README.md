@@ -1,4 +1,4 @@
-### Hi there 👋. 
+### 안녕하세요!! 👋. 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <a href="insta.jpeg" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=뱃지모양&logo=로고&logoColor=yellow"/></a>
 <https://www.instagram.com/clou_ari0630/>
