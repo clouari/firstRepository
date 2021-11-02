@@ -1,9 +1,10 @@
 ### Hi there 👋. 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<a href="instagram.pdf" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=뱃지모양&logo=로고&logoColor=yellow"/></a>
+<a href="insta.jpeg" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=뱃지모양&logo=로고&logoColor=yellow"/></a>
 <img src="구름이갸웃.jpeg" width="400" height="400"/>"   이름은 "구름"입니다!
 
 ## 정다희 <BR />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clouari&show_icons=true&theme=radical)
 
 -------------
 내 홈페이지: <https://github.com/clouari/firstRepository>
